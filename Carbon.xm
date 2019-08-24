@@ -315,7 +315,7 @@
   [[[self valueForKey:@"_notificationContentView"] valueForKey:@"_primaryLabel"] setCarbonTextColor:[UIColor whiteColor]];
   [[[self valueForKey:@"_notificationContentView"] valueForKey:@"_primaryLabel"] setCarbonEnabled:enabled && notifications ? TRUE : FALSE];
 
-	[[[self valueForKey:@"_notificationContentView"] valueForKey:@"_primarySubtitleLabel"] setCarbonTextColor:[UIColor whiteColor]];
+  [[[self valueForKey:@"_notificationContentView"] valueForKey:@"_primarySubtitleLabel"] setCarbonTextColor:[UIColor whiteColor]];
   [[[self valueForKey:@"_notificationContentView"] valueForKey:@"_primarySubtitleLabel"] setCarbonEnabled:enabled && notifications ? TRUE : FALSE];
 
   ((UILabel *)[[self valueForKey:@"_notificationContentView"] valueForKey:@"_secondaryTextView"]).textColor = enabled && notifications ? [UIColor whiteColor] : [UIColor blackColor];
