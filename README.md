@@ -14,3 +14,8 @@ Carbon works without requiring a respring, to toggle dark mode simply use the in
 Carbon brings dark mode to all the blurred SpringBoard elements, most notably all notifications, widgets, 3D touch menus and folders.
 
 Carbon supports most stock iOS applications and applications can be enabed through the select applications menu in preferences with support for 3D party apps coming soon
+
+## Purchase
+You can purchase Carbon via Packix at the link below:
+
+https://repo.packix.com/package/com.oxidelabs.carbon
